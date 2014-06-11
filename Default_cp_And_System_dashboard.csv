@@ -1,0 +1,40 @@
+Display Label,User defined Label,IsSystemOrDefault
+Header,Podrobnosti pacienta,Default
+NUM_REG_PARTICIPANTS,Registrovananí pacienti,Default
+NUM_CONSENTED_PARTICIPANT,Odsouhlasení pacienti,Default
+NUM_MALE_PARTICIPANTS,Pacienti - Muži,Default
+NUM_FEMALE_PARTICIPANTS,Pacienti - Ženy,Default
+Header,KSV - Podrobnosti,default
+NUM_COMPLETE_SCG,Celkem dokončených Kolekcí sesbíraných vzorků,Default
+NUM_PENDING_SCG,Čekající Kolekce sesbíraných vzorků ,Default
+Header,Podrobnosti vzorku,default
+NUM_COLLECTED_SPECIMEN,Shromážděné vzorky,Default
+NUM_PENDING_SPECIMEN,Čekající vzorky ode dnes,Default
+NUM_AVAILABLE_SPECIMEN,Dostupné vzorky,Default
+NUM_DISTRIBUTED_SPECIMEN,Distribuované vzorky,Default
+NUM_FLUID_SPECIMEN_COLLECTED,Kapalné vzorky,Default
+NUM_TISSUE_SPECIMEN_COLLECTED,Vzorky tkáně,Default
+NUM_MOLECULAR_SPECIMEN_COLLECTED,Molekulární vzorky,Default
+NUM_CELL_SPECIMEN_COLLECTED,Vzorků buněk,Default
+NUM_SPECIMENS_BY_MALIGNANT_STATUS,Maligní vzorky,Default
+NUM_SPECIMENS_BY_NON-MALIGNANT_CLASS,Ne-maligní vzorky,Default
+Header,Administrativní záznamy,System
+NUM_USERS,Existující uživatelé,System
+NUM_USERS_ACCESSED_MONTH,Počet uživatelů, kteří použili caTissue tento měsíc,System
+NUM_PENDING_USERS,Počet čekajících uživatelských žádostí,System
+NUM_REPOSITORIES,Počet úložišť,System
+NUM_ACTIVE_CP,Počet aktivních Protokolů sběru,System
+NUM_ACTIVE_DP,Počet Distribučních protokolů,System
+Header,Podrobnosti pacienta,System
+NUM_REG_PARTICIPANTS_SYS,Počet registrovaných pacientů,System
+Header,Podrobnosti vzorku,System
+NUM_COLLECTED_SPECIMEN_TOTAL,Počet shromážděných vzorků,System
+NUM_COLLECTED_SPECIMEN_MONTH,Počet shromážděných vzorků tento měsíc,System
+NUM_SPECIMENS_BY_FLUID_CLASS_SYS,Počet shromážděných Kapalných vzorků,System
+NUM_SPECIMENS_BY_TISSUE_CLASS_SYS,Počet shromážděných Vzorků tkáně,System
+NUM_SPECIMENS_BY_MOLECULAR_CLASS_SYS,Počet shromážděných Molekulárních vzroků,System
+NUM_SPECIMENS_BY_CELL_CLASS_SYS,Počet shromážděných Vzorků buněk,System
+NUM_PENDING_ORDERS,Čekajících uživatelských žádostí,System
+NUM_PROCESSED_ORDER_MONTH,Počet Objednávek tento měsíc,System
+NUM_SHIPMENT_REQUESTS_MONTH,Požadované zásilky tento měsíc,System
+NUM_SHIPMENT_PROCESSED_MONTH,Uskutečněné zásilky tento měsíc,System

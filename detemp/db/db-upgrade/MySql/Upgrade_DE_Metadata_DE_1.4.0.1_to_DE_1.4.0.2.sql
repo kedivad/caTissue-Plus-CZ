@@ -1,0 +1,1 @@
+alter table DYEXTN_CATEGORY add (IS_CACHEABLE tinyint(1) default 0);

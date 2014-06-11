@@ -1,0 +1,5 @@
+8.0
+3
+1 SQLCHAR 0 0 "\"" 0 x utf8_general_ci
+2 SQLCHAR 0 0 "\",\"" 1 ASSOCIATION_ID utf8_general_ci
+3 SQLCHAR 0 0 "\"\n" 2 ASSOCIATION_TYPE utf8_general_ci

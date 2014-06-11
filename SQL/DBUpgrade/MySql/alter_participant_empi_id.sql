@@ -1,0 +1,1 @@
+alter table CATISSUE_PARTICIPANT add column EMPI_ID varchar(50);

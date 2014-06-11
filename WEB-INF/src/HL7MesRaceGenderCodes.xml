@@ -1,0 +1,48 @@
+<properties>
+	<property>
+		<name>Žena</name>
+		<value>F</value>
+	</property>
+	<property>
+		<name>Muž</name>
+		<value>M</value>
+	</property>
+	<property>
+		<name>Neznámo</name>
+		<value>U</value>
+	</property>
+	<property>
+		<name>Nespecifikováno</name>
+		<value>U</value>
+	</property>
+	<property>
+		<name>Asijská</name>
+		<value>O</value>
+	</property>
+	<property>
+		<name>Indián nebo Aljašský domorodec</name>
+		<value>A</value>
+	</property>
+	<property>
+		<name>Černá nebo Africká</name>
+		<value>B</value>
+	</property>
+	<property>
+		<name>Bílá</name>
+		<value>C</value>
+	</property>
+	<property>
+		<name>Havajský domorodec nebo jiný Pacifický ostrovan</name>
+		<value>O</value>
+	</property>
+	<property>
+		<name>Nenahlášeno</name>
+		<value>U</value>
+	</property>
+	<property>
+		<name>Not Specified</name>
+		<value>U</value>
+	</property>
+</properties>
+
+

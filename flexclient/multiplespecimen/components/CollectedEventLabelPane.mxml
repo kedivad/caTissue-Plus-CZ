@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:VBox xmlns:mx="http://www.adobe.com/2006/mxml">
+
+	<mx:Label text="* Kolektor" height="25"/>
+	<mx:Label text="* Datum" height="25"/>
+	<mx:Label text="* Čas" height="25"/>
+	<mx:Label text="* Procedura" height="25"/>
+	<mx:Label text="* Kontejner" height="25"/>
+	<mx:Label text="Poznámky" height="25"/>
+</mx:VBox>

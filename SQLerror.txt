@@ -1,0 +1,864 @@
+delete from dyextn_role where IDENTIFIER=346;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=345;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=342;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=341;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=338;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=337;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=344;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=343;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=340;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=339;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=566;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=565;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=562;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=561;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=558;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=557;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=564;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=563;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=560;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=559;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=542;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=541;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=538;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=537;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=534;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=533;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=540;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=539;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=536;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=535;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=80;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=79;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=64;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=63;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=47;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=48;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=13;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=14;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=9;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=10;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=15;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=16;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=11;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=12;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=175;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=176;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=169;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=170;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=171;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=172;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=127;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=128;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=129;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=130;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=255;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=256;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=394;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=393;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=390;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=389;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=386;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=385;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=392;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=391;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=388;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=387;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=434;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=433;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=430;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=429;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=426;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=425;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=432;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=431;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=428;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=427;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=530;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=529;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=526;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=525;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=522;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=521;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=528;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=527;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=524;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=523;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=358;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=357;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=354;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=353;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=350;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=349;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=356;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=355;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=352;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=351;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=408;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=407;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=412;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=411;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=398;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=397;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=410;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=409;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=400;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=399;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=422;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=421;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=418;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=417;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=414;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=413;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=420;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=419;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=416;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=415;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=370;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=369;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=366;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=365;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=362;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=361;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=368;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=367;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=364;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=363;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=382;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=381;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=378;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=377;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=374;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=373;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=380;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=379;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=376;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=375;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=446;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=445;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=442;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=441;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=438;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=437;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=444;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=443;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=440;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=439;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=482;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=481;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=478;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=477;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=474;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=473;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=480;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=479;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=476;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=475;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=466;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=465;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=470;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=469;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=462;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=461;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=468;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=467;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=472;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=471;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=494;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=493;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=490;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=489;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=486;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=485;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=492;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=491;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=488;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=487;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=458;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=457;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=454;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=453;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=450;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=449;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=460;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=459;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=452;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=451;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=506;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=505;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=502;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=501;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=498;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=497;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=504;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=503;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=500;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=499;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=848;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=847;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=832;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=831;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=848;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=847;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=832;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=831;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=246;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=245;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=204;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=203;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=162;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=161;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=120;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=119;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=2;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=1;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=618;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK104684242BD842F0` FOREIGN KEY (`TARGET_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+delete from dyextn_role where IDENTIFIER=617;
+Exception: Cannot delete or update a parent row: a foreign key constraint fails (`vavra`.`dyextn_association`, CONSTRAINT `FK1046842439780F7A` FOREIGN KEY (`SOURCE_ROLE_ID`) REFERENCES `dyextn_role` (`IDENTIFIER`))
+insert into path values(1,261,567,224);
+Exception: Duplicate entry '1' for key 'PRIMARY'
+insert into path values(4,224,567,333);
+Exception: Duplicate entry '4' for key 'PRIMARY'
+insert into path values(6,333,567,261);
+Exception: Duplicate entry '6' for key 'PRIMARY'
+insert into path values(7,333,567,224);
+Exception: Duplicate entry '7' for key 'PRIMARY'
+insert into path values(15,4,567,261);
+Exception: Duplicate entry '15' for key 'PRIMARY'
+insert into path values(18,261,274,297);
+Exception: Duplicate entry '18' for key 'PRIMARY'

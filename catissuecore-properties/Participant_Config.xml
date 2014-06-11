@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COLLECTION_PROTOCOL_PARTICIPANT_CONFIG>
+<ATTRIBUTE>
+        <attributeName>Rodne cislo</attributeName> <!-- Specify attribute Name  -->
+</ATTRIBUTE>
+<ATTRIBUTE>
+	<attributeName>Race</attributeName>
+</ATTRIBUTE>
+<ATTRIBUTE>
+	<attributeName>Datum narozeni</attributeName>
+</ATTRIBUTE>
+<ATTRIBUTE>
+	<attributeName>Status</attributeName>
+</ATTRIBUTE>
+<ATTRIBUTE>
+	<attributeName>Pohlavi</attributeName>
+</ATTRIBUTE>
+<ATTRIBUTE>
+	<attributeName>Genotype</attributeName>
+</ATTRIBUTE>
+<ATTRIBUTE>
+	<attributeName>Ethnicity</attributeName>
+</ATTRIBUTE>
+
+</COLLECTION_PROTOCOL_PARTICIPANT_CONFIG>

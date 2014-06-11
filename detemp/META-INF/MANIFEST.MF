@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.1
+Created-By: 1.5.0-b64 (Sun Microsystems Inc.)
+
+Name: Dynamic Extensions
+Version: 1.4.0.FC
+Built-By: pkalantri
+Build-on: 14-March-2012
+SVN-URL: https://ncisvn.nci.nih.gov/svn/dynamic_extensions/tags/DYN_EX
+ TN_v1.4.2.1WU.FC/software/DynamicExtentions
+

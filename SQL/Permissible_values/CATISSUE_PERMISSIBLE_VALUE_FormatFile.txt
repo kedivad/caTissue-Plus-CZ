@@ -1,0 +1,9 @@
+8.0
+7
+1 SQLCHAR 0 0 "\"" 0 x utf8_general_ci
+2 SQLCHAR 0 0 "\",\"" 1 IDENTIFIER utf8_general_ci
+3 SQLCHAR 0 0 "\",\"" 2 CONCEPT_CODE utf8_general_ci
+4 SQLCHAR 0 0 "\",\"" 3 DEFINITION utf8_general_ci
+5 SQLCHAR 0 0 "\",\"" 4 PARENT_IDENTIFIER utf8_general_ci
+6 SQLCHAR 0 0 "\",\"" 5 VALUE utf8_general_ci
+7 SQLCHAR 0 0 "\"\n" 6 PUBLIC_ID utf8_general_ci
