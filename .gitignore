@@ -31,7 +31,7 @@ tmp/
 *.swp
 *~.nib
 local.properties
-# caTissueInstall.properties
+caTissueInstall.properties
 # .classpath
 .settings/
 .loadpath
