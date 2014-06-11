@@ -1,1 +1,0 @@
-alter table DYEXTN_CATEGORY add column IS_CACHEABLE SMALLINT default 0;
